@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=number\ length
+comment0.target=String\ rightIntJustify(int,\ int)
+comment0.text=\nformats\ a\ number\ to\ take\ a\ certain\ number\ of\ left\ spaces\n@param\ number\ \ the\ number\ to\ justify\n@param\ length\ \ the\ lenght\ of\ the\ final\ string\n@return\ the\ right\ justified\ string\n\n\n
+comment1.params=number\ length
+comment1.target=String\ leftIntJustify(int,\ int)
+comment2.params=aString\ length
+comment2.target=String\ rightJustify(String,\ int)
+comment2.text=\nformats\ a\ string\ to\ take\ a\ certain\ number\ of\ left\ spaces\n@param\ aString\ \ the\ string\ to\ justify\n@param\ length\ \ the\ lenght\ of\ the\ final\ string\n@return\ the\ right\ justified\ string\n\n\n
+comment3.params=aString\ length
+comment3.target=String\ leftJustify(String,\ int)
+comment3.text=\nformats\ a\ string\ to\ take\ a\ certain\ number\ of\ right\ spaces\n@param\ aString\ \ the\ string\ to\ justify\n@param\ length\ \ the\ lenght\ of\ the\ final\ string\n@return\ the\ left\ justified\ string\n\n\n
+numComments=4

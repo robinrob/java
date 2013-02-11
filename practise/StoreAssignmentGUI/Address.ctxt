@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=addressDetails
+comment0.target=Address(String[])
+comment1.target=String\ getNumber()
+comment10.params=address3
+comment10.target=void\ setAddress3(String)
+comment11.params=postcode
+comment11.target=void\ setPostcode(String)
+comment12.target=String\ toString()
+comment2.target=String\ getStreet()
+comment3.target=String[]\ getDetails()
+comment4.params=line\ string
+comment4.target=void\ setDetail(int,\ String)
+comment5.params=newDetails
+comment5.target=void\ setDetails(String[])
+comment6.params=number
+comment6.target=void\ setHouseNumber(String)
+comment7.params=street
+comment7.target=void\ setStreet(String)
+comment8.params=address1
+comment8.target=void\ setAddress1(String)
+comment9.params=address2
+comment9.target=void\ setAddress2(String)
+numComments=13

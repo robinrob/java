@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ description
+comment0.target=Room(String,\ String)
+comment0.text=\nCreate\ a\ room\ described\ "description".\ Initially,\ it\ has\nno\ exits.\ "description"\ is\ something\ like\ "a\ kitchen"\ or\n"an\ open\ court\ yard".\n\n
+comment1.params=direction
+comment1.target=Room\ getExit(String)
+comment2.params=direction\ neighbour
+comment2.target=void\ setExit(String,\ Room)
+comment2.text=\nDefine\ the\ exits\ of\ this\ room.\ \ Every\ direction\ either\ leads\nto\ another\ room\ or\ is\ null\ (no\ exit\ there).\n\n
+comment3.target=String\ getDescription()
+comment3.text=\nReturn\ the\ description\ of\ the\ room\ (the\ one\ that\ was\ defined\nin\ the\ constructor).\n\n
+comment4.target=String\ getExitString()
+comment5.target=String\ getLongDescription()
+comment6.target=ArrayList<Item>\ getItems()
+comment7.params=item
+comment7.target=void\ addItem(Item)
+comment8.params=item
+comment8.target=void\ removeItem(Item)
+comment9.target=String\ getName()
+numComments=10

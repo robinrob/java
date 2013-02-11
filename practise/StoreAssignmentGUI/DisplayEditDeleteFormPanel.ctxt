@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=gui\ type\ details\ option
+comment0.target=DisplayEditDeleteFormPanel(StoreGUI,\ String,\ String[],\ String)
+comment1.target=JPanel\ createForm()
+comment2.target=void\ editDetails()
+comment3.target=void\ deleteDetails()
+comment4.target=void\ addressType()
+numComments=5

@@ -1,0 +1,64 @@
+import java.util.ArrayList;
+import java.util.Iterator;
+
+/**
+ * This class implements a catalogue with functionality to support the
+ * search for products.
+ * 
+ * @author Pablo Romero
+ * @version 2004.08.28
+ */
+public class Catalogue
+{
+
+	private ArrayList productsList;
+
+ 	/**
+	 * Create a new Catalogue
+   **/
+  	public Catalogue() 
+	  {
+        productsList = new ArrayList();
+        addProducts();
+    }
+
+    /**
+     * This method adds products to the productsList field. It is a simple 
+     * solution. The sophisticated version should add products from a text
+     * file
+     */
+    private void addProducts () 
+    {
+        addProduct("allbran cereal",250);
+        addProduct("baked beans",120);
+        addProduct("corn flakes cereal",250);
+        addProduct("doughnuts (packet of 4)",65);
+        addProduct("fresh milk",58);
+        addProduct("orange juice",70);
+        addProduct("olive oil",320);
+        addProduct("peanut butter",137);
+    }
+
+    /**
+     * This method adds a new product to the productsList field
+     * @param product  the new product to be added
+     * @param price  the products price
+     * @return true if the product didn't exist and could be added,
+     *         false otherwise
+     */
+    private boolean addProduct (String product, int price) 
+    {
+        boolean found = false;
+        Iterator i = productsList.iterator();
+        while (!found && i.hasNext()) {
+            if (product.equals(((Product) i.next()).getLabel()))
+                found = true;
+        }
+
+        if (!found)
+            productsList.add(new Product(product, price));
+
+        return !found;
+    }
+
+}

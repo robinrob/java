@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PaymentDetails()
+comment1.params=details
+comment1.target=PaymentDetails(String[])
+comment2.params=billingAddress
+comment2.target=PaymentDetails(Address)
+comment3.target=String\ getCardNumber()
+comment4.target=String\ getCardType()
+comment5.target=String[]\ getCardDetails()
+comment6.params=newDetails
+comment6.target=void\ setCardDetails(String[])
+comment7.params=address
+comment7.target=void\ setAddress(Address)
+comment8.target=String\ toString()
+comment9.target=boolean\ isComplete()
+numComments=10

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=mass\ x0\ y0\ vx0\ vy0\ colour\ diameter\ xLimit\ yLimit
+comment0.target=Moon(int,\ double,\ double,\ double,\ double,\ Color,\ int,\ int,\ int)
+numComments=1

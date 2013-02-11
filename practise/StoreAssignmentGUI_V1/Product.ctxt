@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=label\ price
+comment0.target=Product(String,\ int)
+comment0.text=\nCreate\ a\ new\ product\n@param\ l\ \ the\ products\ label\n@param\ d\ \ the\ products\ price\n\n
+comment1.params=label\ price\ description\ image
+comment1.target=Product(String,\ int,\ String,\ BufferedImage)
+comment10.target=String\ toString()
+comment2.target=String\ getLabel()
+comment2.text=\nAccessor\ for\ the\ label\n\n
+comment3.target=int\ getPrice()
+comment3.text=\nAccessor\ for\ the\ price\n\n
+comment4.target=String\ getPriceString()
+comment5.target=String\ getDescription()
+comment6.target=BufferedImage\ getImage()
+comment7.params=description
+comment7.target=void\ addDescription(String)
+comment8.target=boolean\ hasImage()
+comment9.params=list
+comment9.target=String[]\ extraDetailsListToArray(ArrayList<String>)
+numComments=11

@@ -1,0 +1,16 @@
+#BlueJ package file
+package.editor.height=300
+package.editor.width=420
+package.editor.x=390
+package.editor.y=219
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.height=50
+target1.name=TicketMachine
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=110
+target1.x=60
+target1.y=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=gui\ title\ allRequired
+comment0.target=InputFormPanel(StoreGUI,\ String,\ Boolean)
+comment1.params=gui\ title\ allRequired\ prevDetails
+comment1.target=InputFormPanel(StoreGUI,\ String,\ Boolean,\ String[])
+comment2.target=JPanel\ createForm()
+comment3.target=String[]\ getDetails()
+comment4.params=previousDetails
+comment4.target=void\ setFields(String[])
+comment5.target=void\ submitDetails()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=gui\ product\ removeOption
+comment0.target=ProductPanel(StoreGUI,\ Product,\ Boolean)
+comment1.target=void\ showInfo()
+comment2.params=number\ length
+comment2.target=String\ rightJustify(int,\ int)
+comment3.params=amount
+comment3.target=void\ update(int)
+comment4.target=void\ setQuantity()
+comment5.target=void\ add()
+comment6.target=void\ remove()
+numComments=7

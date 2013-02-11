@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=title\ director\ time
+comment0.target=DVD(String,\ String,\ int)
+comment1.target=String\ getDirector()
+comment2.params=director
+comment2.target=void\ setDirector(String)
+comment3.target=String\ toString()
+comment4.target=void\ print()
+numComments=5

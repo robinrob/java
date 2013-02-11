@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CalcEngine()
+comment0.text=\nCreate\ a\ CalcEngine\ instance.\n\n
+comment1.target=int\ getDisplayValue()
+comment1.text=\n@return\ The\ value\ currently\ displayed\non\ the\ calculator.\n\n
+comment10.target=void\ applyPreviousOperator()
+comment10.text=\nAn\ operator\ button\ has\ been\ pressed.\nApply\ the\ immediately\ preceding\ operator\ to\ncalculate\ an\ intermediate\ result.\ This\ will\nform\ the\ left\ operand\ of\ the\ new\ operator.\n\n
+comment2.params=number
+comment2.target=void\ numberPressed(int)
+comment2.text=\nA\ number\ button\ was\ pressed.\n@param\ number\ The\ single\ digit.\n\n
+comment3.target=void\ plus()
+comment3.text=\nThe\ '+'\ button\ was\ pressed.\ \n\n
+comment4.target=void\ minus()
+comment4.text=\nThe\ '-'\ button\ was\ pressed.\n\n
+comment5.target=void\ equals()
+comment5.text=\nThe\ '\='\ button\ was\ pressed.\n\n
+comment6.target=void\ clear()
+comment6.text=\nThe\ 'C'\ (clear)\ button\ was\ pressed.\n\n
+comment7.target=String\ getTitle()
+comment7.text=\n@return\ The\ title\ of\ this\ calculation\ engine.\n\n
+comment8.target=String\ getAuthor()
+comment8.text=\n@return\ The\ author\ of\ this\ engine.\n\n
+comment9.target=String\ getVersion()
+comment9.text=\n@return\ The\ version\ number\ of\ this\ engine.\n\n
+numComments=11

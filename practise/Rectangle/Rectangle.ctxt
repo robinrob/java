@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=class\ Rectangle
+comment0.text=\nWrite\ a\ description\ of\ class\ Rectangle\ here.\n\n@author\ (your\ name)\ \n@version\ (a\ version\ number\ or\ a\ date)\n\n
+comment1.params=width\ height
+comment1.target=void\ Rectangle(int,int)
+comment2.target=window
+numComments=3

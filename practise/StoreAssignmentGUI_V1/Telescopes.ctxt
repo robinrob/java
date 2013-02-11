@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=label\ price\ description\ image\ aperture\ focalLength
+comment0.target=Telescopes(String,\ int,\ String,\ BufferedImage,\ int,\ int)
+comment1.target=String[]\ getExtraDetails()
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=l\ p\ n
+comment0.target=ShoppingItem(String,\ int,\ int)
+comment0.text=\nCreate\ a\ new\ item\n@param\ l\ \ the\ items\ label\n@param\ d\ \ the\ items\ price\n@param\ n\ \ number\ of\ items\n\n
+comment1.target=String\ getLabel()
+comment1.text=\nAccessor\ for\ the\ label\n\n
+comment2.target=int\ getPrice()
+comment2.text=\nAccessor\ for\ the\ price\n\n
+comment3.target=int\ getNumber()
+comment3.text=\nAccessor\ for\ the\ number\ of\ items\n\n
+comment4.target=int\ getTotal()
+numComments=5

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Catalogue()
+comment0.text=\nCreate\ a\ new\ Catalogue\n\n
+comment1.params=product\ price
+comment1.target=boolean\ addProduct(String,\ int)
+comment1.text=\nThis\ method\ adds\ a\ new\ product\ to\ the\ productList\ field\n@param\ product\ \ the\ new\ product\ to\ be\ added\n@param\ price\ \ the\ products\ price\n@return\ true\ if\ the\ product\ didn't\ exist\ and\ could\ be\ added,\nfalse\ otherwise\n\n
+comment10.target=ArrayList<Product>\ getProducts()
+comment11.params=type
+comment11.target=ArrayList<Product>\ getProducts(String)
+comment12.params=phrase
+comment12.target=ArrayList<String>\ findPossibleProducts(String)
+comment2.params=product\ price\ description\ image
+comment2.target=boolean\ addProduct(String,\ int,\ String,\ BufferedImage)
+comment3.params=product
+comment3.target=boolean\ addProduct(Product)
+comment4.params=label\ description
+comment4.target=boolean\ addProductDescription(String,\ String)
+comment5.params=label
+comment5.target=boolean\ productExists(String)
+comment6.params=label
+comment6.target=Product\ getProduct(String)
+comment7.params=label
+comment7.target=int\ getProductPrice(String)
+comment8.params=label
+comment8.target=String\ getProductDetails(String)
+comment9.target=ArrayList<String>\ getLabels()
+numComments=13

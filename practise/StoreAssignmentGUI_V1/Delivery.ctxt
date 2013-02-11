@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Delivery()
+comment1.params=address\ postage
+comment1.target=Delivery(Address,\ String)
+comment2.target=String\ getRecipient()
+comment3.target=Address\ getAddress()
+comment4.target=String\ getPostage()
+comment5.target=int\ getPostageCost()
+comment6.params=address
+comment6.target=void\ setAddress(Address)
+comment7.params=postage
+comment7.target=void\ setPostage(String)
+comment8.params=postage
+comment8.target=void\ setPostageCost(String)
+comment9.target=boolean\ isComplete()
+numComments=10

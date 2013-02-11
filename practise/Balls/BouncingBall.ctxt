@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ x_speed\ y_speed\ ballDiameter\ ballColour\ gravity\ screen\ data_analyser
+comment0.target=BouncingBall(int,\ int,\ double,\ int,\ int,\ Color,\ int,\ CanvasScreen,\ DataAnalyser)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ BouncingBall\n\n@param\ xPos\ \ the\ horizontal\ coordinate\ of\ the\ ball\n@param\ yPos\ \ the\ vertical\ coordinate\ of\ the\ ball\n@param\ ballDiameter\ \ the\ diameter\ (in\ pixels)\ of\ the\ ball\n@param\ ballColor\ \ the\ color\ of\ the\ ball\n@param\ groundPos\ \ the\ position\ of\ the\ ground\ (where\ the\ wall\ will\ bounce)\n@param\ drawingCanvas\ \ the\ canvas\ to\ draw\ this\ ball\ on\n\n
+comment1.target=void\ draw()
+comment1.text=\nDraw\ this\ ball\ at\ its\ current\ position\ onto\ the\ canvas.\n\n
+comment2.target=void\ erase()
+comment2.text=\nErase\ this\ ball\ at\ its\ current\ position.\n\n
+comment3.target=void\ move()
+comment3.text=\nMove\ this\ ball\ according\ to\ its\ position\ and\ speed\ and\ redraw.\n\n
+comment4.target=int\ getXPosition()
+comment4.text=\nreturn\ the\ horizontal\ position\ of\ this\ ball\n\n
+comment5.target=int\ getXSpeed()
+comment6.target=int\ getYPosition()
+comment6.text=\nreturn\ the\ vertical\ position\ of\ this\ ball\n\n
+comment7.target=int\ getYSpeed()
+comment8.target=int\ getGravity()
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y\ length
+comment0.target=Platform(int,\ int,\ int)
+comment1.params=colour
+comment1.target=void\ drawPlatform(Color)
+comment2.params=screen
+comment2.target=void\ placePlatform(CanvasScreen)
+comment3.target=int\ platformX()
+comment4.target=int\ platformY()
+comment5.target=int\ platformLength()
+numComments=6

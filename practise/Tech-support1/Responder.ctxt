@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Responder()
+comment0.text=\nConstruct\ a\ Responder\ -\ nothing\ to\ do\n\n
+comment1.target=String\ generateResponse()
+comment2.params=word
+comment2.target=String\ generateResponse(String)
+comment3.params=words
+comment3.target=String\ generateResponse(HashSet)
+comment4.params=options
+comment4.target=String\ chooseOption(ArrayList)
+comment5.target=void\ listRecognisedIndex()
+comment6.target=void\ fillSynonymMap()
+comment7.target=void\ fillResponseMap()
+comment8.target=void\ testWrite()
+comment9.target=void\ fillResponses()
+numComments=10

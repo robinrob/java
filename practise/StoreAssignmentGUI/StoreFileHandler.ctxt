@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StoreFileHandler()
+comment1.params=details
+comment1.target=User\ loadUser(String[])
+comment2.target=Catalogue\ loadCatalogue()
+comment3.params=object
+comment3.target=boolean\ saveObject(Object)
+comment4.params=filename
+comment4.target=BufferedImage\ loadImage(String)
+numComments=5

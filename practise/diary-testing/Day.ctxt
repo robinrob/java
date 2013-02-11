@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=dayNumber
+comment0.target=Day(int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Day.\n@param\ dayNumber\ The\ number\ of\ this\ day\ in\ the\ year\ (1-366).\n\n
+comment1.params=appointment
+comment1.target=int\ findSpace(Appointment)
+comment1.text=\nTry\ to\ find\ space\ for\ an\ appointment.\n@param\ appointment\ The\ appointment\ to\ be\ accommodated.\n@return\ The\ earliest\ time\ today\ that\ can\ accommodate\nthe\ appointment.\ Return\ -1\ if\ there\ is\ \ninsufficient\ space.\n\n
+comment2.params=time\ appointment
+comment2.target=boolean\ makeAppointment(int,\ Appointment)
+comment2.text=\nMake\ an\ appointment.\n@param\ time\ The\ hour\ at\ which\ the\ appointment\ starts.\n@param\ appointment\ The\ appointment\ to\ be\ made.\n@return\ true\ if\ the\ appointment\ was\ successful,\nfalse\ otherwise.\n\n
+comment3.target=void\ showAppointments()
+comment3.text=\nPrint\ a\ list\ of\ the\ day's\ appointments\ on\ standard\ output.\n\n
+comment4.target=int\ getDayNumber()
+comment4.text=\n@return\ The\ number\ of\ this\ day\ within\ the\ year\ (1\ -\ 366).\n\n
+numComments=5

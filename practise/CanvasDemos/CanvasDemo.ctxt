@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CanvasDemo()
+comment0.text=\nCreate\ a\ BallDemo\ object.\ Creates\ a\ fresh\ canvas\ and\ makes\ it\ visible.\n\n
+comment1.target=void\ drawDemo()
+comment10.params=bottom_left_x\ bottom_left_y\ top_right_x\ top_right_y\ thickness
+comment10.target=void\ drawFrame(int,\ int,\ int,\ int,\ int)
+comment11.target=void\ removeFrame()
+comment2.params=first_name\ surname\ film
+comment2.target=void\ customDrawDemo(String,\ String,\ String)
+comment3.params=word\ colour1\ colour2\ thickness
+comment3.target=void\ flashWord(Word,\ Color,\ Color,\ int)
+comment4.params=x0\ y0\ length\ Wait
+comment4.target=void\ drawScrollingRectangle(int,\ int,\ int,\ int)
+comment5.params=number\ wait
+comment5.target=void\ drawLines(int,\ int)
+comment6.params=word\ Size\ Wait\ x0\ y0
+comment6.target=void\ drawLetters(String,\ int,\ int,\ int,\ int)
+comment7.params=word\ Size\ Colour\ Wait\ x0\ y0
+comment7.target=void\ drawWord(String,\ int,\ int,\ int,\ int,\ int)
+comment8.target=int\ canvasWidth()
+comment9.target=int\ canvasHeight()
+numComments=12

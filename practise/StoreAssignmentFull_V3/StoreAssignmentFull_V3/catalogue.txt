@@ -1,0 +1,9 @@
+telescope
+300
+a large telescope
+binoculars
+200
+large binoculars
+Robin's shop
+10
+Robin Smith's astronomy shop software

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TextSystem()
+comment1.target=void\ start()
+comment2.target=void\ printWelcome()
+comment3.target=void\ printGoodbye()
+numComments=4

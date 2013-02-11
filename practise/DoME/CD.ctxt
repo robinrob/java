@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=title\ artist\ number\ time
+comment0.target=CD(String,\ String,\ int,\ int)
+comment1.target=String\ getArtist()
+comment2.target=int\ getNumberOfTracks()
+comment3.params=artist
+comment3.target=void\ setArtist(String)
+comment4.params=number
+comment4.target=void\ setNumberOfTracks(int)
+comment5.target=String\ toString()
+comment6.target=void\ print()
+numComments=7

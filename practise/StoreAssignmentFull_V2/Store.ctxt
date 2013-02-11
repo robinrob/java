@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Store()
+comment0.text=\nCreate\ a\ new\ Store\n\n
+comment1.target=String\ getPrompt()
+comment10.target=void\ doShopping()
+comment11.target=void\ printWelcome()
+comment12.target=void\ printHelp()
+comment13.target=void\ printShopMenu()
+comment14.params=prompts\ allRequired
+comment14.target=String[]\ inputForm(String[],\ Boolean)
+comment15.target=void\ quit()
+comment16.target=void\ logIn()
+comment17.target=void\ createAccount()
+comment18.target=void\ showProducts()
+comment19.params=input
+comment19.target=void\ searchForProducts(String)
+comment2.target=User\ getCurrentUser()
+comment3.target=StoreFileHandler\ getFileHandler()
+comment4.target=ShoppingBasket\ getBasket()
+comment5.target=Catalogue\ getCatalogue()
+comment6.target=BasketModule\ getBasketModule()
+comment7.target=AddressModule\ getAddressModule()
+comment8.target=void\ interact()
+comment9.target=void\ printMainMenu()
+numComments=20

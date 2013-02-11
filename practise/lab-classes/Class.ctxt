@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=String\ getName()
+comment1.params=student
+comment1.target=void\ addStudent(Student)
+comment2.params=student
+comment2.target=void\ removeStudent(Student)
+comment3.params=instructor
+comment3.target=void\ addInstructor(Instructor)
+comment4.params=instructor
+comment4.target=void\ removeInstructor(Instructor)
+comment5.target=void\ print()
+numComments=6

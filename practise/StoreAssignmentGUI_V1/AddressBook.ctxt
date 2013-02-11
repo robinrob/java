@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AddressBook()
+comment1.params=addresses
+comment1.target=AddressBook(ArrayList<Address>)
+comment10.params=address\ type
+comment10.target=void\ setAddressType(Address,\ String)
+comment11.params=address\ type
+comment11.target=boolean\ isAddressType(Address,\ String)
+comment2.target=ArrayList<Address>\ getAddressList()
+comment3.params=details
+comment3.target=Address\ getAddress(String[])
+comment4.target=Address[]\ getAddressArray()
+comment5.params=type
+comment5.target=Address\ getAddressType(String)
+comment6.params=address
+comment6.target=void\ addAddress(Address)
+comment7.params=address
+comment7.target=void\ removeAddress(Address)
+comment8.params=details
+comment8.target=void\ removeAddress(String[])
+comment9.params=addresses
+comment9.target=void\ setAddressList(Address[])
+numComments=12

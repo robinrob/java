@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ShoppingBasket()
+comment0.text=\nCreate\ a\ new\ ShoppingBasket\n\n
+comment1.target=void\ empty()
+comment2.target=boolean\ isEmpty()
+comment3.params=product\ quantity
+comment3.target=void\ add(Product,\ int)
+comment4.params=name
+comment4.target=boolean\ itemExists(String)
+comment5.params=name
+comment5.target=boolean\ removeItem(String)
+comment6.params=label
+comment6.target=int\ getQuantity(String)
+comment7.target=int\ getTotal()
+comment8.target=ArrayList<Product>\ getItems()
+comment9.params=label
+comment9.target=ShoppingItem\ getItem(String)
+numComments=10

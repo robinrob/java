@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Catalogue()
+comment0.text=\nCreate\ a\ new\ Catalogue\n\n
+comment1.target=void\ addProducts()
+comment1.text=\nThis\ method\ adds\ products\ to\ the\ productList\ field.\ It\ is\ a\ simple\ \nsolution.\ The\ sophisticated\ version\ should\ add\ products\ from\ a\ text\nfile\n\n
+comment2.params=product\ price
+comment2.target=boolean\ addProduct(String,\ int)
+comment2.text=\nThis\ method\ adds\ a\ new\ product\ to\ the\ productList\ field\n@param\ product\ \ the\ new\ product\ to\ be\ added\n@param\ price\ \ the\ products\ price\n@return\ true\ if\ the\ product\ didn't\ exist\ and\ could\ be\ added,\nfalse\ otherwise\n\n
+comment3.params=name
+comment3.target=boolean\ productExists(String)
+comment4.params=name
+comment4.target=int\ getProductPrice(String)
+comment5.target=ArrayList<String>\ getProducts()
+numComments=6

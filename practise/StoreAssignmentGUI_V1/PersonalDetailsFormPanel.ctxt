@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=gui\ title
+comment0.target=PersonalDetailsFormPanel(StoreGUI,\ String)
+comment1.params=gui\ title\ prevDetails
+comment1.target=PersonalDetailsFormPanel(StoreGUI,\ String,\ String[])
+comment2.target=void\ submitDetails()
+numComments=3

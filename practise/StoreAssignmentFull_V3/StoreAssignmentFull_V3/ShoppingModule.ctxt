@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=store
+comment0.target=ShoppingModule(Store)
+comment1.target=void\ run()
+comment2.target=void\ printWelcome()
+comment3.target=void\ printHelp()
+comment4.target=void\ printShopMenu()
+comment5.target=void\ showProducts()
+comment6.params=input
+comment6.target=void\ searchForProducts(String)
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=fullname\ ID
+comment0.target=Student(String,\ String)
+comment1.params=newCredits
+comment1.target=void\ addCredits(int)
+comment2.target=int\ getCredits()
+comment3.target=void\ print()
+comment4.target=void\ testMethod()
+numComments=5

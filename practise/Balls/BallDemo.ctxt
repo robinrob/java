@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BallDemo()
+comment0.text=\nCreate\ a\ BallDemo\ object.\ Creates\ a\ fresh\ canvas\ and\ makes\ it\ visible.\n\n
+comment1.target=int\ screenWidth()
+comment1.text=\nThis\ method\ demonstrates\ some\ of\ the\ drawing\ operations\ that\ are\navailable\ on\ a\ Canvas\ object.\n\n
+comment10.target=void\ refreshStopped()
+comment11.params=number
+comment11.target=void\ createBalls(int)
+comment12.params=balls
+comment12.target=void\ drawBalls(BouncingBall[])
+comment13.target=void\ eraseBalls()
+comment14.params=n_balls\ n_platforms
+comment14.target=void\ setUpStairsBounce(int,\ int)
+comment14.text=\nSimulates\ two\ bouncing\ balls\n\n
+comment15.params=n_balls\ n_platforms
+comment15.target=void\ runStairsBounce(int,\ int)
+comment2.target=int\ screenHeight()
+comment3.target=int\ canvasWidth()
+comment4.target=int\ canvasHeight()
+comment5.target=void\ drawFrame()
+comment6.params=platforms\ colour
+comment6.target=void\ drawPlatforms([,\ Color)
+comment7.params=number
+comment7.target=void\ createPlatforms(int)
+comment8.target=void\ setUpCanvas()
+comment9.target=void\ refreshTime()
+numComments=16

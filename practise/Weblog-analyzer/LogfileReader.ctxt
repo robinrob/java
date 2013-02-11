@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LogfileReader()
+comment0.text=\nCreate\ a\ LogfileReader\ to\ supply\ data\ from\ a\ default\ file.\n\n
+comment1.params=filename
+comment1.target=LogfileReader(String)
+comment1.text=\nCreate\ a\ LogfileReader\ that\ will\ supply\ data\nfrom\ a\ particular\ log\ file.\ \n@param\ filename\ The\ file\ of\ log\ data.\n\n
+comment2.target=boolean\ hasMoreEntries()
+comment2.text=\nDoes\ the\ reader\ have\ more\ data\ to\ supply?\n@return\ true\ if\ there\ is\ more\ data\ available,\nfalse\ otherwise.\n\n
+comment3.target=LogEntry\ nextEntry()
+comment3.text=\nAnalyze\ the\ next\ line\ from\ the\ log\ file\ and\nmake\ it\ available\ via\ a\ LogEntry\ object.\n\n@return\ A\ LogEntry\ containing\ the\ data\ from\ the\nnext\ log\ line.\n\n
+comment4.target=String\ getFormat()
+comment4.text=\n@return\ A\ string\ explaining\ the\ format\ of\ the\ data\nin\ the\ log\ file.\n\n
+comment5.target=void\ reset()
+comment5.text=\nSet\ up\ a\ fresh\ iterator\ to\ provide\ access\ to\ the\ data.\nThis\ allows\ a\ single\ file\ of\ data\ to\ be\ processed\nmore\ than\ once.\n\n
+comment6.target=void\ printData()
+comment7.params=data
+comment7.target=void\ createSimulatedData(ArrayList)
+comment7.text=\nProvide\ a\ sample\ of\ simulated\ data.\nNB\:\ To\ simplify\ the\ creation\ of\ this\ data,\ no\ndays\ after\ the\ 28th\ of\ a\ month\ are\ ever\ generated.\n@param\ data\ Where\ to\ store\ the\ simulated\ LogEntry\ objects.\n\n
+numComments=8

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=basket
+comment0.target=Order(ShoppingBasket)
+comment1.target=Order()
+comment2.target=Delivery\ getDelivery()
+comment3.target=String\ getTotalString()
+comment4.target=String[]\ getShortDetails()
+comment5.params=basket
+comment5.target=void\ setBasket(ShoppingBasket)
+comment6.params=delivery
+comment6.target=void\ setDelivery(Delivery)
+comment7.params=paymentDetails
+comment7.target=void\ setPaymentDetails(PaymentDetails)
+comment8.target=void\ updateTotal()
+comment9.target=boolean\ isComplete()
+numComments=10

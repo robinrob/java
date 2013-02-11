@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=label\ price\ description\ image\ aperture\ mag\ fov
+comment0.target=Binoculars(String,\ int,\ String,\ BufferedImage,\ int,\ int,\ String)
+comment1.target=String[]\ getExtraDetails()
+numComments=2

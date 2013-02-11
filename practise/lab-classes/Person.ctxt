@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fullname\ ID
+comment0.target=Person(String,\ String)
+comment1.target=String\ getFirstName()
+comment2.target=String\ getSurname()
+comment3.target=String[]\ getFullName()
+comment4.params=newname
+comment4.target=void\ changeName(String)
+comment5.target=String\ getID()
+comment6.target=String\ getLoginName()
+comment7.target=void\ print()
+numComments=8

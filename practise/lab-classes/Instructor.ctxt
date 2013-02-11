@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=title\ fullname\ ID
+comment0.target=Instructor(String,\ String,\ String)
+comment1.target=void\ print()
+numComments=2

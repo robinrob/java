@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Lexicon()
+comment0.text=\nCreate\ n1\ new\ lexicon\n\n
+comment1.params=n1\ n2\ n3
+comment1.target=int\ Minimum(int,\ int,\ int)
+comment1.text=\nThis\ method\ returns\ the\ minimum\ of\ three\ values\n@param\ n1\ \ one\ of\ the\ three\ numbers\ to\ be\ compared\n@param\ n2\ \ one\ of\ the\ three\ numbers\ to\ be\ compared\n@param\ n3\ \ one\ of\ the\ three\ numbers\ to\ be\ compared\n\n
+comment2.params=String1\ String2
+comment2.target=int\ editDistance(String,\ String)
+comment2.text=\nThis\ method\ computes\ the\ Levenshtein\ distance\ (implementation\ by\nMichael\ Gilleland).\nNote\:\ you\ don'string2\ have\ to\ understand\ the\ implementation\ details\ of\ \nthe\ Levenshtein\ algorithm\ and\ of\ this\ method,\ you\ are\ only\ required\nto\ use\ it\ (call\ it\ from\ other\ methods).\nThe\ Levenshtein\ distance\ (LD)\ is\ n1\ measure\ of\ the\ similarity\ between\ntwo\ strings,\ which\ we\ will\ refer\ to\ as\ the\ source\ string\ (string1)\nand\ the\ target\ string\ (string2).\ The\ distance\ is\ the\ number\ of\ndeletions,\ insertions,\ or\ substitutions\ required\ to\ transform\ string1\ninto\ string2.\ For\ example,\n-\ If\ string1\ is\ "test"\ and\ string2\ is\ "test",\ then\ LD(string1,string2)\ \=\ 0,\ because\nno\ transformations\ are\ needed.\ The\ strings\ are\ already\ identical.\n-\ If\ string1\ is\ "test"\ and\ string2\ is\ "tent",\ then\ LD(string1,string2)\ \=\ 1,\ because\none\ substitution\ (change\ "string1"\ to\ "n")\ is\ sufficient\ to\ntransform\ string1\ into\ string2.\nThe\ greater\ the\ Levenshtein\ distance,\ the\ more\ different\ the\nstrings\ are.\n\n@param\ string1\ \ one\ of\ the\ two\ strings\ to\ be\ compared\n@param\ string2\ \ one\ of\ the\ two\ strings\ to\ be\ compared\n\n
+comment3.params=string
+comment3.target=boolean\ wordExists(String)
+comment4.params=Word1\ Word2
+comment4.target=WordDistance\ getEditDistance(String,\ String)
+comment5.params=Word
+comment5.target=ArrayList<WordDistance>\ getEditDistances(String)
+comment6.params=wordDistances
+comment6.target=WordDistance\ getMinDistance(ArrayList<WordDistance>)
+comment7.params=Word\ Number
+comment7.target=ArrayList<String>\ getSimilarWords(String,\ int)
+comment8.params=Word
+comment8.target=Boolean\ addWord(String)
+comment9.target=void\ printLexicon()
+numComments=10

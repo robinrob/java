@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=address
+comment0.target=Address(String[])
+comment1.params=line\ string
+comment1.target=void\ setLine(int,\ String)
+comment10.target=String\ toString()
+comment2.params=number
+comment2.target=void\ setHouseNumber(String)
+comment3.params=street
+comment3.target=void\ setStreet(String)
+comment4.params=address1
+comment4.target=void\ setAddress1(String)
+comment5.params=address2
+comment5.target=void\ setAddress2(String)
+comment6.params=address3
+comment6.target=void\ setAddress3(String)
+comment7.params=postcode
+comment7.target=void\ setPostcode(String)
+comment8.params=type\ bool
+comment8.target=void\ setAddressType(String,\ boolean)
+comment9.params=type
+comment9.target=boolean\ isAddressType(String)
+numComments=11

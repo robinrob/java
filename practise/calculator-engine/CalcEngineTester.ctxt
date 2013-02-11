@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CalcEngineTester()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ CalcEngineTester\n\n
+comment1.target=void\ testAll()
+comment2.target=int\ testPlus()
+comment2.text=\nTest\ the\ plus\ operation\ of\ the\ engine.\n@return\ the\ result\ of\ calculating\ 3+4.\n\n
+comment3.target=int\ testMinus()
+comment3.text=\nTest\ the\ minus\ operation\ of\ the\ engine.\n@return\ the\ result\ of\ calculating\ 9\ -\ 4.\n\n
+numComments=4

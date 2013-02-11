@@ -1,0 +1,53 @@
+/**
+ * Class to format strings
+ * 
+ * @author Pablo Romero
+ * @version 1.0
+ */
+public class Formatter
+{
+    /**
+     * formats a number to take a certain number of left spaces
+     * @param number  the number to justify
+     * @param length  the lenght of the final string
+     * @return the right justified string
+     * 
+     */
+    public static String intJustify(int number, int length)
+    {
+        Integer intNumber = new Integer(number);
+        String numberString = intNumber.toString();
+        for ( int i = 0 ; i < length - numberString.length() ; i++ )
+            numberString = " " + numberString;
+        return numberString;
+    }
+
+    /**
+     * formats a string to take a certain number of left spaces
+     * @param aString  the string to justify
+     * @param length  the lenght of the final string
+     * @return the right justified string
+     * 
+     */
+    public static String rightJustify(String aString, int length)
+    {
+        for ( int i = 0 ; i < length - aString.length() ; i++ )
+            aString = " " + aString;
+        return aString;
+    }
+
+    /**
+     * formats a string to take a certain number of right spaces
+     * @param aString  the string to justify
+     * @param length  the lenght of the final string
+     * @return the left justified string
+     * 
+     */
+    public static String leftJustify(String aString, int length)
+    {
+        for ( int i = 0 ; i < length - aString.length() ; i++ )
+            aString = aString + " ";
+        return aString;
+    }
+}
+

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=void\ addStopped()
+comment1.target=void\ removeStopped()
+comment2.target=int\ getStopped()
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=title\ playingTime
+comment0.target=Item(String,\ int)
+comment1.target=String\ getTitle()
+comment10.params=name
+comment10.target=void\ setMediumName(String)
+comment11.target=String\ spacing()
+comment12.target=String\ toString()
+comment2.target=String\ getComment()
+comment3.target=boolean\ getOwnIt()
+comment4.target=int\ getPlayingTime()
+comment5.target=String\ getMediumName()
+comment6.params=track
+comment6.target=void\ setTitle(String)
+comment7.params=comment
+comment7.target=void\ setComment(String)
+comment8.params=bool
+comment8.target=void\ setOwnIt(boolean)
+comment9.params=number
+comment9.target=void\ setPlayingTime(int)
+numComments=13

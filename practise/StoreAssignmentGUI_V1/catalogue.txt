@@ -1,0 +1,87 @@
+Telescopes
+8" telescope
+30000
+a decent-sized telescope
+8_in_telescope.jpg
+200
+1200
+10" telescope
+35000
+a large telescope
+10_in_telescope.jpg
+200
+1200
+12" telescope
+40000
+a very telescope
+12_in_telescope.jpg
+200
+1200
+6" telescope
+25000
+a good-sized telescope
+6_in_telescope.jpg
+200
+1200
+4" telescope
+15000
+a small telescope
+
+200
+1200
+14" telescope
+30000
+a reallly big telescope
+
+200
+1200
+Binoculars
+10 x 40 binoculars
+10000
+moderate-sized binoculars
+40_mm_binoculars.jpg
+40
+10
+5
+7 x 30 binoculars
+20000
+small binoculars
+
+30
+7
+5
+10 x 50 binoculars
+12000
+star-gazing binoculars
+40_mm_binoculars.jpg
+50
+10
+3
+15 x 60 binoculars
+25000
+pretty large binoculars
+
+60
+15
+5
+50 x 100 binoculars
+28000
+extremely large binoculars
+
+100
+50
+5
+60 x 150 binoculars
+35000
+impossibly large binoculars
+
+150
+60
+5
+Software
+Robin's Astronomy shop
+1000
+Robin's astronomy shop software
+
+1.0
+any java platform

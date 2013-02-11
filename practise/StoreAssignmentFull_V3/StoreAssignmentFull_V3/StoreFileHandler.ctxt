@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StoreFileHandler()
+comment1.params=details
+comment1.target=User\ loadUser(String[])
+comment2.target=Catalogue\ loadCatalogue()
+comment3.params=object
+comment3.target=boolean\ saveObject(Object)
+numComments=4

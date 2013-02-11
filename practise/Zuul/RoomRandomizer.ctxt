@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=rooms
+comment0.target=RoomRandomizer(ArrayList<Room>)
+comment1.target=Room\ getRandomRoom()
+numComments=2

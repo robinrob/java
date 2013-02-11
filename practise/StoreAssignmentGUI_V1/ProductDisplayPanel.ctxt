@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=gui\ productsToDisplay\ removeOption
+comment0.target=ProductDisplayPanel(StoreGUI,\ ArrayList<Product>,\ Boolean)
+comment1.target=JPanel\ createForm()
+numComments=2

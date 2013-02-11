@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RandomTester()
+comment1.params=max
+comment1.target=int\ randomNumber(int)
+comment2.target=int[]\ randomNumbers()
+comment3.target=void\ printRandomNumbers()
+comment4.target=void\ randomResponse()
+numComments=5

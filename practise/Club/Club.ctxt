@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Club()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Club\n\n
+comment1.params=name\ month\ year
+comment1.target=void\ join(String,\ int,\ int)
+comment1.text=\nAdd\ a\ new\ member\ to\ the\ club's\ list\ of\ members.\n@param\ member\ The\ member\ object\ to\ be\ added.\n\n
+comment2.params=member
+comment2.target=void\ join(Membership)
+comment3.target=int\ numberOfMembers()
+comment3.text=\n@return\ The\ number\ of\ members\ (Membership\ objects)\ in\nthe\ club.\n\n
+comment4.params=MemberNumber
+comment4.target=void\ getMemberDetails(int)
+comment5.params=month
+comment5.target=int\ joinedInMonth(int)
+comment6.params=month\ year
+comment6.target=ArrayList\ purge(int,\ int)
+comment7.target=void\ AllMemberDetails()
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PhraseGenerator()
+comment1.params=termWords
+comment1.target=void\ addTermWordsToLexicon(String)
+comment2.params=phrases\ words
+comment2.target=ArrayList<String>\ createPossiblePhrases(ArrayList<String>,\ ArrayList<String>)
+comment3.params=wholePhrase
+comment3.target=ArrayList<String>\ findAlternativePhrases(String)
+numComments=4

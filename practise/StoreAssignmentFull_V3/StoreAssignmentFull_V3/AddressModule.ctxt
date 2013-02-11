@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=store
+comment0.target=AddressModule(Store)
+comment1.target=void\ run()
+comment2.target=void\ printAddressOptionsMenu()
+comment3.params=addresses
+comment3.target=void\ printAddresses(Address[])
+comment4.target=void\ addAddress()
+comment5.target=void\ removeAddress()
+comment6.target=void\ editAddress()
+comment7.params=type
+comment7.target=void\ specifyAddress(String)
+comment8.params=type
+comment8.target=void\ showAddress(String)
+numComments=9

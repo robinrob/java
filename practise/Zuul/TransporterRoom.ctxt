@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=name\ description\ randomizer
+comment0.target=TransporterRoom(String,\ String,\ RoomRandomizer)
+comment1.params=direction
+comment1.target=Room\ getExit(String)
+numComments=2

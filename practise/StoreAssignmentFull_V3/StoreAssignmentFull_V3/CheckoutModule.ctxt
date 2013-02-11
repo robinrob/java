@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=store
+comment0.target=CheckoutModule(Store)
+comment1.target=void\ run()
+comment10.target=void\ printOrderDetails()
+comment2.target=void\ printCheckoutMenu()
+comment3.target=void\ deliveryOptions()
+comment4.target=void\ printDeliveryOptionsMenu()
+comment5.target=void\ postageOptions()
+comment6.target=void\ printPostageOptionsMenu()
+comment7.target=void\ paymentOptions()
+comment8.target=void\ printPaymentOptionsMenu()
+comment9.target=void\ checkConfirmOrder()
+numComments=11

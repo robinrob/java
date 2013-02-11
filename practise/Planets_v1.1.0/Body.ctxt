@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=mass\ x0\ y0\ vx0\ vy0\ colour\ diameter\ xLimit\ yLimit
+comment0.target=Body(int,\ double,\ double,\ double,\ double,\ Color,\ int,\ int,\ int)
+comment0.text=\nCreate\ a\ planet.\ \n@param\ mass\ Initial\ mass\n@param\ x0\ Initial\ x-coordinate\n@param\ y0\ Initial\ y-coordinate\n@param\ vx0\ Initial\ x-velocity\n@param\ xy0\ Initial\ y-velocity\n@param\ colour\ Colour\ the\ planet\ will\ be\ drawn\ in\n@param\ diameter\ Diameter\ the\ planet\ will\ be\ drawn\ with\n@param\ xLimit\ Max.\ allowed\ x-coordinate\n@param\ yLimit\ Max.\ allowed\ y-coordinate\n\n
+comment1.params=bodies\ delta_t
+comment1.target=void\ reCalculate(ArrayList<Body>,\ double)
+comment1.text=\nCalculate\ the\ instantaneous\ net\ acceleration\ on\ this\ planet\ \ndue\ to\ a\ collection\ of\ other\ planets.\ \n\n
+comment2.params=delta_t
+comment2.target=void\ move(double)
+comment2.text=\nCalculate\ the\ new\ speed\ and\ position.\ \n\n
+comment3.target=double\ getXPos()
+comment3.text=\nAccessor\ method\ for\ x-coordinate\ of\ this\ planet.\ \n\n
+comment4.target=double\ getYPos()
+comment4.text=\nAccessor\ method\ for\ y-coordinate.\ \n\n
+comment5.target=double\ getMass()
+comment5.text=\nAccessor\ method\ for\ the\ mass.\ \n\n
+comment6.target=int\ getDiameter()
+comment6.text=\nAccessor\ method\ for\ the\ diameter.\n\n
+comment7.target=Color\ getColour()
+comment7.text=\nAccessor\ method\ for\ the\ draw\ colour.\ \n\n
+comment8.params=mass
+comment8.target=void\ setMass(int)
+comment8.text=\nMethod\ to\ set\ the\ mass\ of\ the\ planet.\ \n\n
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=logline
+comment0.target=LogEntry(String)
+comment0.text=\nDecompose\ a\ log\ line\ so\ that\ the\ individual\ fields\nare\ available.\n@param\ logline\ A\ single\ line\ from\ the\ log.\n\n
+comment1.target=int\ getHour()
+comment1.text=\n@return\ The\ hour\ field\ from\ the\ log\ line.\n\n
+comment2.target=int\ getMinute()
+comment2.text=\n@return\ The\ minute\ field\ from\ the\ log\ line.\n\n
+comment3.target=String\ toString()
+comment3.text=\nCreate\ a\ string\ representation\ of\ the\ data.\nThis\ is\ not\ necessarily\ identical\ with\ the\ntext\ of\ the\ original\ log\ line.\n\n@return\ A\ string\ representing\ the\ data\ of\ this\ entry.\n\n
+comment4.params=other
+comment4.target=int\ compareTo(Object)
+comment4.text=\nCompare\ the\ date/time\ combination\ of\ this\ log\ entry\nwith\ another.\n@param\ other\ The\ other\ entry\ to\ compare\ against.\n@return\ A\ negative\ value\ if\ this\ entry\ comes\ before\ the\ other.\nA\ positive\ value\ if\ this\ entry\ comes\ after\ the\ other.\nZero\ if\ the\ entries\ are\ the\ same.\n\n
+numComments=5

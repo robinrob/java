@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=Word\ x_pos\ y_pos\ font_size
+comment0.target=Word(String,\ int,\ int,\ int)
+comment1.target=int\ xPos()
+comment2.target=int\ yPos()
+comment3.target=int\ fontSize()
+comment4.target=int\ length()
+numComments=5

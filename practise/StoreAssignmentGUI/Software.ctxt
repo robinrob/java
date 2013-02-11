@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=name\ price\ description\ image\ version\ platform
+comment0.target=Software(String,\ int,\ String,\ BufferedImage,\ String,\ String)
+comment1.target=String[]\ getExtraDetails()
+numComments=2

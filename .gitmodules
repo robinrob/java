@@ -4,3 +4,6 @@
 [submodule "robins-file"]
 	path = robins-file
 	url = git@bitbucket.org:robinrob/rakefile.git
+[submodule "rake"]
+	path = rake
+	url = git@bitbucket.org:robinrob/rakefile.git

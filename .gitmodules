@@ -1,0 +1,6 @@
+[submodule "projects/planetsim"]
+	path = projects/planetsim
+	url = git@github.com:robinrob/planetsim.git
+[submodule "projects/ballsim"]
+	path = projects/ballsim
+	url = git@github.com:robinrob/ballsim.git

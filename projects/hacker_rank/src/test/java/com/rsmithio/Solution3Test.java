@@ -1,9 +1,8 @@
-package com.rsmithio.test;
+package com.rsmithio;
 
 
 import java.util.*;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
 

@@ -1,4 +1,4 @@
-package com.rsmithio.test;
+package com.rsmithio;
 
 import java.io.*;
 import java.util.*;
